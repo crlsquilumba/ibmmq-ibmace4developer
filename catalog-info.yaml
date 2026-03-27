@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ibmmq-ibmace4developer
+  description: Sin descripción
+  annotations:
+    github.com/project-slug: crlsquilumba/ibmmq-ibmace4developer
+spec:
+  type: library
+  lifecycle: experimental
+  owner: user:default/guest
